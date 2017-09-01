@@ -21,7 +21,7 @@ This little project I did for the Tribute Page Challenge at FreeCodeCamp.Com
 
 ## Motivation
 
-I'm preparing myself for a coding bootcamp. I'm currently trying to teach myself the best practices and skills needed to become a successful, productive web developer. 
+Exploring front end development techniques and best practices. 
 
 ## Installation
 page can be found @ https://codepen.io/RedRock_42/full/OWmrwq/
