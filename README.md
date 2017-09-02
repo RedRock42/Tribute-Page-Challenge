@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-My very first responsive web page! 
+My first responsive web page! 
 This little project I did for the Tribute Page Challenge at FreeCodeCamp.Com 
 
 
